@@ -1,0 +1,25 @@
+.card {
+  padding: 15px;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.showIllnessSearch {
+  display: none;
+}
+
+.showDoctorSearch {
+  display: none;
+}
+
+body {
+  background-color: lightblue;
+}
+
+#docInfo {
+  text-align: center;
+}
